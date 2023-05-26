@@ -15,3 +15,19 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.623);
 }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    width: auto;
+    margin: auto;
+    padding: 5px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.322);
+    border-radius: 5px;
+}
+
+p {
+    text-align: justify;
+}
